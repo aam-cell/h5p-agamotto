@@ -29,8 +29,8 @@
             "description": "Описание изображения по желанию"
           },
           {
-            "label": "Audio",
-            "description": "Optional audio that plays when an image is shown."
+            "label": "Аудио",
+            "description": "Звуковая дорожка, воспроизводимая при отображении изображения (необязательно)."
           }
         ]
       }
@@ -44,12 +44,12 @@
           "description": "Установите количество первичных изображений"
         },
         {
-          "label": "Кнопка слайда",
-          "description": "Если активировано, кнопка переместиться на позицию изображения"
+          "label": "Кнопка на слайде",
+          "description": "Если активировано, кнопка переместится на позицию изображения"
         },
         {
           "label": "Показать галочку",
-          "description": "Если активировано, кнопка слайдера будет отображать галочку у каждого изобажения."
+          "description": "Если активировано, кнопка слайдера будет отображать галочку у каждого изображения."
         },
         {
           "label": "Показать метки",
@@ -60,8 +60,8 @@
           "description": "Выберите цвет, который будет отображаться на прозрачной части фона при смене изображений."
         },
         {
-          "label": "Image space in fullscreen mode",
-          "description": "If you have descriptions in addition to the images, set the the percentage of space that the images should use in fullscreen mode."
+          "label": "Пространство изображения в полноэкранном режиме",
+          "description": "Если помимо изображений у вас есть описания, задайте процент пространства, которое изображения должны занимать в полноэкранном режиме."
         }
       ]
     },
@@ -77,20 +77,20 @@
           "default": "Слайдер изображения"
         },
         {
-          "label": "Mute title",
-          "default": "Mute"
+          "label": "Без звука",
+          "default": "Отключитьзвук"
         },
         {
-          "label": "Unmute title",
-          "default": "Unmute"
+          "label": "Со звуком",
+          "default": "Включить звук"
         },
         {
-          "label": "Title for fullscreen button (enter)",
-          "default": "Enter fullscreen mode"
+          "label": "Название для кнопки полноэкранного режима (Вход)",
+          "default": "Перейти в полноэкранный режим"
         },
         {
-          "label": "Title for fullscreen button (exit)",
-          "default": "Exit fullscreen mode"
+          "label": "Название для кнопки полноэкранного режима (Выход)",
+          "default": "Выйти из полноэкранного режима"
         }
       ]
     }
